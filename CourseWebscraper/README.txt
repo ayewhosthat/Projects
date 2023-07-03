@@ -3,3 +3,5 @@ Was inspired to create this mini-project in the middle of my course registration
 - look up course descriptions and requirements without having to change websites all the time
 
 Overall, I liked this mini-project, where I got to learn and practice webscraping with BeautifulSoup and data cleaning/processing with Pandas
+
+* data was collected from a crowdsourced Excel sheet
