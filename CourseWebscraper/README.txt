@@ -5,3 +5,4 @@ Was inspired to create this project in the middle of my course registration. Thi
 Overall, I liked this project, where I got to learn and practice webscraping with BeautifulSoup and data cleaning/processing with Pandas
 
 * data was collected from a crowdsourced Excel sheet
+* this project was purely for personal use only, in no way was it intended for any purpose other than making my course registration process a little easier, while also practicing my Python skills
