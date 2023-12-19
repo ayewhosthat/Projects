@@ -1,0 +1,1 @@
+Here is a repository for all my projects as of yet, ranging anywhere from projects/assignments for school :page_with_curl: to machine learning :gear: explorations/projects done on my own time over the summer. More still to come in the future.
