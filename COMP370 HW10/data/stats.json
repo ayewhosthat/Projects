@@ -1,0 +1,6 @@
+{
+  "degree": ["Twilight Sparkle", "Rainbow Dash", "Pinkie Pie"], 
+  "weighted_degree": ["Twilight Sparkle", "Rainbow Dash", "Applejack"], 
+  "closeness": ["Twilight Sparkle", "Rainbow Dash", "Pinkie Pie"], 
+  "betweenness": ["Twilight Sparkle", "Pinkie Pie", "Rarity"]
+}
