@@ -1,0 +1,6 @@
+## Overview
+Banks take on tens if not hundreds of thousands of new customers per year. However, as one might imagine, this comes at a cost to the bank. Inevitably, some customers may end up leaving the bank, for one reason or another. This project was aimed to simulate a situation in which a bank wished to build a prediction model from historical customer data to predict whether or not a customer would be likely to leave the bank after joining, with the hypothetical aim of taking necessary measures to minimize the cost of said customer leaving the bank. 
+
+Several standard data science practices were applied in this project, such as scaling of data in separate columns to the same range, splitting dataset into a testing/training set, transforming categorical variables into numerical variables via one-hot encoding, etc.
+
+The prediction models that were created in this project are not the upmost-performant, however, the goal of this project was to further broaden my perspective of the process of machine learning. Things such as feature selection and scaling of data were the key takeaways here. In fact, the initial models were very performant, but only because of a 100% correlated feature that had been left in the dataset. After said feature was removed, the models performed at a reasonable level.
