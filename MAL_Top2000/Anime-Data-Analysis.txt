@@ -1,6 +1,0 @@
-POSSIBLE TASK IDEAS:
-
-- How has the number of anime released over the years changed?
-- How does average popularity vary by release month?
-- What is the most target demographic?
-- Does score/popularity vary by demographic?
