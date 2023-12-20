@@ -1,1 +1,1 @@
-
+An assignment centred around the iterative process of data annotation. Reddit posts from the McGill and Concordia subreddits were gathered using the /new.json endpoint and converted to tsv format by extracting only the post author and title. Then an initial set of categories was developed, with each article being categorized into one category. Overlapping categories were merged together into one, and the process was repeated until a total of 3-8 categories were obtained for both the McGill and Concordia subreddits.
